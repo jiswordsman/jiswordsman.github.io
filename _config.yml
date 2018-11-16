@@ -8,7 +8,7 @@ url: "http://cgfw.tk"  # 此处填写你的博客地址
 
 # About/contact
 owner: 
-  name: "我是谁并不重要" # 填写作者信息：名字
+  name: "张无忌" # 填写作者信息：名字
   email: jiswordman@gmail.com # 填写作者信息：邮箱
   bio: "一个简单的coder，分享一些简单的经验" # 填写作者信息：博客描述
 
@@ -43,7 +43,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "你的名字" # 你的名字
+      author: "张无忌" # 你的名字
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
