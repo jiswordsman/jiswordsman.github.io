@@ -1,2 +1,0 @@
-# Redirect default Netlify subdomain to primary domain
-http://cgfw.netlify.com/* http://cgfw.tk/:splat 301!
