@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "About"
-description: "你的博客描述 " 
+title: "个人介绍"
+description: "个人介绍" 
 header-img: "img/green.jpg"
 ---
 
-这一页填写你的自我介绍。
+我是谁并不重要
 
 
 
