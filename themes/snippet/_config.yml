@@ -13,10 +13,10 @@ menu:
 ##   icon:
 - page: 后端
   url: /categories/后端/
-  icon: fa-about
+  icon: 
 - page: 工具
   url: /categories/工具/
-  icon:
+  icon: fa-toolbox
 - page: 关于
   url: /about/
   icon:
