@@ -13,16 +13,16 @@ menu:
 ##   icon:
 - page: 后端
   url: /categories/后端/
-  icon: 
+  icon: fa-tag
 - page: 工具
   url: /categories/工具/
-  icon: fa-toolbox
+  icon: fa-tag
 - page: 关于
   url: /about/
-  icon:
+  icon: fa-book
 - page: 时间轴
   url: /archives/
-  icon:
+  icon: fa-list
 
 ## favicon  网站图标位置{@favicon}
 favicon: /favicon.ico

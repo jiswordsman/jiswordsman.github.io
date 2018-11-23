@@ -31,6 +31,11 @@
                 <a href="<%- url_for(post.path) %>"><%- post.title %></a>
             </h1>
             <div class="post-meta">  &bull;
+                <% if (post.top) { %>
+                    <i class="fa fa-thumb-tack"></i>
+                    <span style="background-color:#7ED321"><font color=FDFDFD>置顶</font></span>
+                    <span class="post-meta-divider">|</span>
+                <% } %>
                 <time class="post-date" datetime="" title="">
                     <%- date(post.date,"YYYY年MM月DD日") %>
                 </time>
