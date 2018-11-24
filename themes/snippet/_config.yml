@@ -172,7 +172,7 @@ declaration:
 ## 文章打赏{@reward: {alipay:支付宝打赏,wepay:微信打赏,tip:打赏提示语; 链接都为空,关闭打赏功能}}
 reward:
   alipay: ''
-  wepay: '../img/reward-wepay.jpg'
+  wepay: '../img/reward-wepay.png'
   tip: 赞赏是不耍流氓的鼓励
 
 ## 主题评论
@@ -211,8 +211,8 @@ changyan:
 ## Valine评论
 valine:
    enable: true
-   appId: xOKV9J4UeQAtVkvnJC7Kq2Jn-gzGzoHsz
-   appKey: erIpQac4azoCmgfBB7Dl9maa
+   appId: cTOl02NUymv4WNJkBpWObY4R-gzGzoHsz
+   appKey: tgImVWH5m4ofgqwHGpAu9X8C
    placeholder: 说点什么吧
    notify: false
    verify: false
