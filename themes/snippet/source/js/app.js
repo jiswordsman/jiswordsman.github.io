@@ -105,7 +105,7 @@ window.onload = function() {
 	    timer = requestAnimationFrame(function fn() {
 	        var sTop = getScrollTop();
 	        if (sTop > 0) {
-	            $body.scrollTop = document.documentElement.scrollTop = sTop - 50;
+	            $body.scrollTop = document.documentElement.scrollTop = sTop - 2000;
 	            timer = requestAnimationFrame(fn);
 	        } else {
 	            cancelAnimationFrame(timer);
