@@ -108,6 +108,7 @@ a img {
 
 .btn-default {
     border: 1px solid #84C0F2;
+    font-size: 13px;
     background: #84C0F2;
     color: #fff;
     -webkit-transition: all 0.2s ease-in-out;
@@ -457,7 +458,7 @@ pre {
 }
 
 .post {
-    padding: 20px;
+    padding: 20px 20px 10px 20px;
     background: #fff;
     margin-bottom: 15px;
     position: relative;
@@ -554,11 +555,11 @@ pre {
     font-size: 13px;
     color: #999;
     line-height: 24px;
+    margin: 15px 0;
 }
 
 .post .post-body {
     margin-top: 15px;
-    padding: 25px 0;
     border-top: 1px solid #eee;
     overflow: hidden;
 }
@@ -574,7 +575,7 @@ pre {
 
 .post .post-footer {
     margin-top: 15px;
-    padding-top: 15px;
+    padding-top: 8px;
     border-top: 1px solid #ebebeb;
 }
 
@@ -597,6 +598,7 @@ pre {
 
 .post .post-footer .tag-list a {
     color: #959595;
+    font-size: 13px;
 }
 
 .post .post-footer .tag-list a:hover {
@@ -611,9 +613,8 @@ pre {
   main post content
 ====================================================*/
 .post-content {
-    font: 400 16px/1.62 "Microsoft YaHei", "Georgia", "Xin Gothic", "Hiragino Sans GB", "Droid Sans Fallback", sans-serif;
+    margin: 1.5em 0;
     color: #333;
-    letter-spacing: 1px;
     line-height: 24px;
     font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Microsoft YaHei", "Source Han Sans SC", "Noto Sans CJK SC", "WenQuanYi Micro Hei", sans-serif;
 }
@@ -675,6 +676,7 @@ pre {
     font-size: 15px;
     line-height: 18px;
     color: #333;
+    margin: 1.5em 0;
 }
 
 .post-content a {
@@ -752,13 +754,15 @@ pre {
 
 /* 引用 */
 .post-content blockquote {
-    margin: 0 0 1.5em 0;
+    margin-bottom: 20px;
     border-left: 3px solid #84C0F2;
     background-color: #F6F6F6;
     font-size: 15px;
-    color: #666666;
+    color: #555;
 }
-
+.post-content blockquote p {
+    margin: 0;
+}
 .post-content blockquote a {
     color: #666666;
 }

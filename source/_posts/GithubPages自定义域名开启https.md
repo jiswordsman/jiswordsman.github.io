@@ -10,7 +10,6 @@ tags:
 comments: true
 abbrlink: 1
 permalink: customDomainHttps.html
-img: http://piwgc559z.bkt.clouddn.com/18-11-29/22374790.jpg
 keywords: ['Github Pages','自定义域名','https']
 ---
 

@@ -12,7 +12,6 @@ comments: true
 top: true
 permalink: baaCloud.html
 abbrlink: 60549
-img: https://upload-images.jianshu.io/upload_images/14380624-61669d8ce52494b1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240
 ---
 最近想到外面上网看看新闻推特和其他，就在寻找合适的、免费上网工具，经过几个软件的试用，最终锁定Baacloud([**官网链接**](http://baa.im/523610))，在这里分享给大家。首先强调下面需要注意的三点：
 
