@@ -241,7 +241,7 @@ tencent_analytics:
 ### 百度站点认证
 baidu_site_verification: UQWgMENrW1
 ### 百度ssp认证
-baidu_ssp_verify: 7d2e7b1ac446f364bfabe5eb1bb419cf
+baidu_ssp_verify: 270824894bc88bb9e746a50f63c035b4
 
 ### 百度自动推送(@baidu_push: 是否启用百度自动推送)  参考网站: [百度站长资源](https://ziyuan.baidu.com/college/courseinfo?id=267&page=2#h2_article_title18)
 baidu_push: true
