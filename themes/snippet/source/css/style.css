@@ -481,9 +481,8 @@ pre {
   overflow: hidden;
 }
 .post .post-body p {
-  font-size: 16px;
-  /*line-height: 1.8;*/
-  padding: 3px;
+  font-size: 15px;
+  line-height: 1.8;
 }
 .post .post-body p img {
   max-width: 100%;
@@ -519,10 +518,11 @@ pre {
   main post content
 ====================================================*/
 .post-content {
-  font: 500 16px/1.62 "Microsoft YaHei", "Georgia", "Xin Gothic", "Hiragino Sans GB", "Droid Sans Fallback", sans-serif;
+  font: 400 16px/1.62 "Microsoft YaHei", "Georgia", "Xin Gothic", "Hiragino Sans GB", "Droid Sans Fallback", sans-serif;
   color: #333;
   letter-spacing: 1px;
   line-height: 24px;
+    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Microsoft YaHei", "Source Han Sans SC", "Noto Sans CJK SC", "WenQuanYi Micro Hei", sans-serif;
 }
 .post-content h1 {
   font-family: "Microsoft YaHei", "Georgia", "Xin Gothic", "Hiragino Sans GB", "Droid Sans Fallback", "SimSun", sans-serif;
@@ -571,9 +571,8 @@ pre {
   font-size: 2em;
 }
 .post-content p {
-  font-size: 16px;
-  text-align: justify;
-  line-height: 24px;
+  font-size: 15px;
+  line-height: 18px;
   color: #333;
 }
 .post-content a {
@@ -636,12 +635,12 @@ pre {
 .post-content hr {
   border-top: #dededc 1px solid;
 }
+/* 引用 */
 .post-content blockquote {
   margin: 0 0 1.5em 0;
   border-left: 3px solid #84C0F2;
-  background-color: #F5F5F5;
-  font-size: 16px;
-  /*padding-left: 12px;*/
+  background-color: #F6F6F6;
+  font-size: 15px;
   color: #666666;
 }
 .post-content blockquote a {
