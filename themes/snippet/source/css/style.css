@@ -418,8 +418,10 @@ pre {
   text-align: center;
 }
 .post .post-head .post-title {
-  font-size: 1.5em;
-  line-height: 1.35em;
+  font-size: 18px;
+  line-height: 1.5;
+  font-weight: 700;
+  display: inherit;
   margin: 0;
 }
 .post .post-head .post-title a {
@@ -468,7 +470,9 @@ pre {
 }
 .post .post-content p.brief {
   overflow: hidden;
-  color: #666666;
+  font-size: 13px;
+  color: #999;
+  line-height: 24px;
 }
 .post .post-body {
   margin-top: 15px;
@@ -477,8 +481,9 @@ pre {
   overflow: hidden;
 }
 .post .post-body p {
-  font-size: 1em;
-  line-height: 1.5;
+  font-size: 16px;
+  /*line-height: 1.8;*/
+  padding: 3px;
 }
 .post .post-body p img {
   max-width: 100%;
@@ -514,56 +519,62 @@ pre {
   main post content
 ====================================================*/
 .post-content {
-  font: 400 15px/1.62 "Georgia", "Xin Gothic", "Hiragino Sans GB", "Droid Sans Fallback", "Microsoft YaHei", sans-serif;
+  font: 500 16px/1.62 "Microsoft YaHei", "Georgia", "Xin Gothic", "Hiragino Sans GB", "Droid Sans Fallback", sans-serif;
   color: #333;
   letter-spacing: 1px;
+  line-height: 24px;
 }
 .post-content h1 {
-  font-family: "Georgia", "Xin Gothic", "Hiragino Sans GB", "Droid Sans Fallback", "Microsoft YaHei", "SimSun", sans-serif;
+  font-family: "Microsoft YaHei", "Georgia", "Xin Gothic", "Hiragino Sans GB", "Droid Sans Fallback", "SimSun", sans-serif;
   color: #333;
   font-size: 1.8em;
+  font-weight: 600;
   margin: 0.67em 0;
 }
 .post-content h2 {
-  font-family: "Georgia", "Xin Gothic", "Hiragino Sans GB", "Droid Sans Fallback", "Microsoft YaHei", "SimSun", sans-serif;
+  font-family: "Microsoft YaHei", "Georgia", "Xin Gothic", "Hiragino Sans GB", "Droid Sans Fallback", "SimSun", sans-serif;
   color: #333;
   font-size: 1.5em;
+  font-weight: 600;
   margin: 0.83em 0;
 }
 .post-content h3 {
-  font-family: "Georgia", "Xin Gothic", "Hiragino Sans GB", "Droid Sans Fallback", "Microsoft YaHei", "SimSun", sans-serif;
+  font-family: "Microsoft YaHei", "Georgia", "Xin Gothic", "Hiragino Sans GB", "Droid Sans Fallback", "SimSun", sans-serif;
   color: #333;
   font-size: 1.17em;
+  font-weight: 600;
   margin: 1em 0;
 }
 .post-content h4 {
-  font-family: "Georgia", "Xin Gothic", "Hiragino Sans GB", "Droid Sans Fallback", "Microsoft YaHei", "SimSun", sans-serif;
+  font-family: "Microsoft YaHei", "Georgia", "Xin Gothic", "Hiragino Sans GB", "Droid Sans Fallback", "SimSun", sans-serif;
   color: #333;
   font-size: 1em;
+  font-weight: 600;
   margin: 1.6em 0 1em 0;
 }
 .post-content h5 {
-  font-family: "Georgia", "Xin Gothic", "Hiragino Sans GB", "Droid Sans Fallback", "Microsoft YaHei", "SimSun", sans-serif;
+  font-family: "Microsoft YaHei", "Georgia", "Xin Gothic", "Hiragino Sans GB", "Droid Sans Fallback", "SimSun", sans-serif;
   color: #333;
   font-size: 1em;
+  font-weight: 600;
   margin: 1.6em 0 1em 0;
 }
 .post-content h6 {
-  font-family: "Georgia", "Xin Gothic", "Hiragino Sans GB", "Droid Sans Fallback", "Microsoft YaHei", "SimSun", sans-serif;
+  font-family: "Microsoft YaHei", "Georgia", "Xin Gothic", "Hiragino Sans GB", "Droid Sans Fallback", "SimSun", sans-serif;
   color: #333;
   font-size: 1em;
+  font-weight: 600;
   margin: 1.6em 0 1em 0;
-  font-weight: 500;
 }
 .post-content > h1 {
   margin-top: 0;
   font-size: 2em;
 }
 .post-content p {
-  font-size: 15px;
-  /*margin-bottom: 1.5rem;*/
-  /*text-align: justify;*/
-  /*line-height: 2.1;*/
+  font-size: 16px;
+  text-align: justify;
+  line-height: 24px;
+  color: #333;
 }
 .post-content a {
   word-wrap: break-word;
@@ -571,10 +582,9 @@ pre {
 .post-content a img {
   border: none;
 }
-/*.post-content strong {
-  font-weight: 700;
-  color: #333;
-}*/
+.post-content strong {
+  font-weight: 600;
+}
 .post-content b {
   font-weight: 700;
   color: #333;
@@ -613,7 +623,7 @@ pre {
   left: 0;
   margin-top: 10px;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 16px;
   color: #666666;
 }
 .post-content figure figcaption a {
@@ -627,9 +637,11 @@ pre {
   border-top: #dededc 1px solid;
 }
 .post-content blockquote {
-  margin: 0 0 1.64em 0;
+  margin: 0 0 1.5em 0;
   border-left: 3px solid #84C0F2;
-  padding-left: 12px;
+  background-color: #F5F5F5;
+  font-size: 16px;
+  /*padding-left: 12px;*/
   color: #666666;
 }
 .post-content blockquote a {
@@ -1085,6 +1097,7 @@ pre {
   text-decoration: none;
   padding: 4px 0;
   line-height: 1.25em;
+  font-size: 16px;
   position: relative;
   width: 100%;
   text-overflow: ellipsis;
