@@ -7,9 +7,9 @@
 <meta name="keywords" content="<%= config.keywords%>"/>
 <% } %>
 
-<%if(theme.baidu_ssp_verify){%>
-    <meta name="baidu_ssp_verify" content="<%= theme.baidu_ssp_verify%>" />
-<%}%>
+<% if(theme.baidu_ssp_verify){ %>
+<meta name="baidu_ssp_verify" content="<%= theme.baidu_ssp_verify%>">
+<% } %>
 
 <% var robotMeta = theme.robot||'all'; %>
 <meta name="robots" content="<%= robotMeta%>" />
