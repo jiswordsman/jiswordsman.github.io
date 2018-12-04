@@ -16,7 +16,7 @@ var gulp = require('gulp'),
     paths = {
         root: './',
         source: './themes/snippet/source/' //主题下原文件
-    }
+    };
 
 /*====================================================
          开发主题
@@ -55,8 +55,8 @@ var gulp = require('gulp'),
 // ====================================================*/
 //
 // 压缩处理 css
-gulp.task('minify-css', function () {
-    return gulp.src('./public/**/*.css')
+/*gulp.task('minify-css', function () {
+    return gulp.src('./public/!**!/!*.css')
         .pipe(autoprefixer({
             browsers: ['last 10 versions', 'Firefox >= 20', 'Opera >= 36', 'ie >= 9', 'Android >= 4.0',],
             cascade: false, //是否美化格式
@@ -65,37 +65,37 @@ gulp.task('minify-css', function () {
         .pipe(minifycss())
         .pipe(gulp.dest('./public'))
         .pipe(notify({message: 'css minify complete'}));
-});
+});*/
 
 // // 压缩处理 js
-// gulp.task('minify-js', function () {
-//     return gulp.src('./public/js/*.js')
-//         .pipe(uglify())
-//         .pipe(gulp.dest('./public/js'))
-//         .pipe(notify({message: 'js minify complete'}));
-// });
-//
+/*gulp.task('minify-js', function () {
+    return gulp.src('./public/js/!*.js')
+        .pipe(uglify())
+        .pipe(gulp.dest('./public/js'))
+        .pipe(notify({message: 'js minify complete'}));
+});*/
+
 // // 压缩处理 html
-// gulp.task('minify-html', function () {
-//     return gulp.src('./public/**/*.html')
-//         .pipe(htmlclean())
-//         .pipe(htmlmin({
-//             removeComments: true, //清除HTML注释
-//             collapseWhitespace: true, //压缩HTML
-//             minifyJS: true, //压缩页面JS
-//             minifyCSS: true, //压缩页面CSS
-//             minifyURLs: true
-//         }))
-//         .pipe(gulp.dest('./public'));
-// });
-//
+/*gulp.task('minify-html', function () {
+    return gulp.src('./public/!**!/!*.html')
+        .pipe(htmlclean())
+        .pipe(htmlmin({
+            removeComments: true, //清除HTML注释
+            collapseWhitespace: true, //压缩HTML
+            minifyJS: true, //压缩页面JS
+            minifyCSS: true, //压缩页面CSS
+            minifyURLs: true
+        }))
+        .pipe(gulp.dest('./public'));
+});*/
+
 // // 添加版本号
-// gulp.task('rev', function () {
-//     return gulp.src('./public/**/*.html')
-//         .pipe(rev())
-//         .pipe(gulp.dest('./public'));
-// });
-//
+/*gulp.task('rev', function () {
+    return gulp.src('./public/!**!/!*.html')
+        .pipe(rev())
+        .pipe(gulp.dest('./public'));
+});*/
+
 // // 同步执行task
 // gulp.task('deploy', sequence(['minify-css', 'minify-js'], 'rev', 'minify-html'));
 //

@@ -79,7 +79,7 @@ theme: snippet
 deploy:
   type: git
   repo:
-    github: git@github.com:jiswordsman/jiswordsman.github.io.git,master
+    gitee: https://gitee.com/jidaxia/jidaxia.git,master
 
 hierarchy_category:
   enable_helper: true
