@@ -7,3 +7,5 @@ public
 .idea
 .deploy_git
 *.iml
+/db.json
+/package-lock.json
