@@ -123,7 +123,7 @@ branding: To be a better man !
 
 ## 设置banner背景图片{@img:imgUrl自定义图片地址,主题默认{"静态背景":"banner.jpg"},{"动态背景":"banner2.jpg"}}
 banner:
-    img: http://piwgc559z.bkt.clouddn.com/18-12-2/43670187.jpg
+    img: '../img/banner.jpg'
 
   
 ## 首页列表底部面板
@@ -227,13 +227,13 @@ visit_counter:
 ## 网站访问统计分析
 
 ### 网盟CNZZ统计
-cnzz_analytics: 1263868967
+cnzz_analytics:
 
 ### 百度统计  [百度统计](https://tongji.baidu.com/)
 baidu_analytics: 23fd0abd0e8fe7f359c97606e9e06cd4
 
 ### 谷歌统计
-google_analytics: 23fd0abd0e8fe7f359c97606e9e06cd4
+google_analytics:
 
 ### 腾讯分析
 tencent_analytics:
@@ -241,7 +241,7 @@ tencent_analytics:
 ### 百度站点认证
 baidu_site_verification: UQWgMENrW1
 ### 百度ssp认证
-baidu_ssp_verify: eb1e6f1398f76db6d969b0cfd3bfed53
+baidu_ssp_verify: 476a938c61cf3b5673983bd41e537c09
 
 ### 百度自动推送(@baidu_push: 是否启用百度自动推送)  参考网站: [百度站长资源](https://ziyuan.baidu.com/college/courseinfo?id=267&page=2#h2_article_title18)
 baidu_push: true
