@@ -61,7 +61,7 @@ jsonContent:
 ## 网站公告设置
 notification: |-
             <p>
-               本站不定期分享开发技术、科学上网教程。
+               本站不定期分享开发技术心得。
             </p>
 
 ## 社交设置{@name:社交工具名字，@icon:社交工具图标，@href:设置工具链接} [参考图标](http://fontawesome.io/icons/)
@@ -123,7 +123,7 @@ branding: To be a better man !
 
 ## 设置banner背景图片{@img:imgUrl自定义图片地址,主题默认{"静态背景":"banner.jpg"},{"动态背景":"banner2.jpg"}}
 banner:
-    img: '../img/banner.jpg'
+    img: '/img/banner.jpg'
 
   
 ## 首页列表底部面板
@@ -171,7 +171,7 @@ declaration:
 ## 文章打赏{@reward: {alipay:支付宝打赏,wepay:微信打赏,tip:打赏提示语; 链接都为空,关闭打赏功能}}
 reward:
   alipay: ''
-  wepay: '../img/reward-wepay.png'
+  wepay: '/img/reward-wepay.png'
   tip: 赞赏是不耍流氓的鼓励
 
 ## 主题评论
