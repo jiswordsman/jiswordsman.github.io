@@ -1,10 +1,9 @@
 ---
 layout: post
-title: 2018年11月亲测-免费科学上网工具-BaaCloud分享
+title: 2018年12月亲测-免费科学上网工具-BaaCloud分享
 date: 2018/11/22
 categories:
   - 工具
-  - 科学上网
 tags:
   - 科学上网
   - 免费工具
@@ -12,6 +11,8 @@ comments: true
 top: true
 permalink: baaCloud.html
 abbrlink: 60549
+keywords: 科学上网,科学上网工具,免费科学上网工具
+description: 2018年12月亲测-免费科学上网工具
 ---
 
 最近想到外面上网看看新闻推特和其他，就在寻找合适的、免费上网工具，经过几个软件的试用，最终锁定Baacloud([**官网链接**](http://baa.im/523610))，在这里分享给大家。首先强调下面需要注意的三点：

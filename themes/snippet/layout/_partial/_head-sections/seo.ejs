@@ -1,10 +1,22 @@
 <!--SEO-->
-<% if(config.description){ %>
+<% if(config.description && page.description){ %>
+<meta name="description" content="<%= config.description%> | <%= page.description%>"/>
+<% } %>
+<% if (config.description && !page.description){ %>
 <meta name="description" content="<%= config.description%>"/>
 <% } %>
+<% if (!config.description && page.description){ %>
+<meta name="description" content="<%= page.description%>"/>
+<% } %>
 
-<% if(config.keywords){ %>
+<% if(config.keywords && page.keywords){ %>
+<meta name="keywords" content="<%= config.keywords%> ,<%= page.keywords%>"/>
+<% } %>
+<% if (config.keywords && !page.keywords){ %>
 <meta name="keywords" content="<%= config.keywords%>"/>
+<% } %>
+<% if (!config.keywords && page.keywords){ %>
+<meta name="keywords" content="<%= page.keywords%>"/>
 <% } %>
 
 <% if(theme.baidu_ssp_verify){ %>
@@ -22,3 +34,11 @@
 <meta name="google" content="<%= robotMeta%>" />
 <meta name="googlebot" content="<%= robotMeta%>" />
 <meta name="verify" content="<%= robotMeta%>" />
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+    (adsbygoogle = window.adsbygoogle || []).push({
+        google_ad_client: "ca-pub-1672129391773476",
+        enable_page_level_ads: true
+    });
+</script>

@@ -67,7 +67,7 @@ jsonContent:
 ## 网站公告设置
 notification: |-
             <p>
-               本站不定期分享开发技术心得。
+               本站不定期分享开发技术心得、免费science上网工具。
             </p>
 
 ## 社交设置{@name:社交工具名字，@icon:社交工具图标，@href:设置工具链接} [参考图标](http://fontawesome.io/icons/)
@@ -236,7 +236,7 @@ visit_counter:
 cnzz_analytics:
 
 ### 百度统计  [百度统计](https://tongji.baidu.com/)
-baidu_analytics: 23fd0abd0e8fe7f359c97606e9e06cd4
+baidu_analytics: 826e13beb7a13fd4aae44d6bd8d2aa70
 
 ### 谷歌统计
 google_analytics:
@@ -245,7 +245,7 @@ google_analytics:
 tencent_analytics:
 
 ### 百度站点认证
-baidu_site_verification: UQWgMENrW1
+baidu_site_verification: ZdhZMTdfUg
 ### 百度ssp认证
 baidu_ssp_verify: 476a938c61cf3b5673983bd41e537c09
 ### 筑巢ssp认证
