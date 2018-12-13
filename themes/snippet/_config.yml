@@ -8,11 +8,17 @@ menu:
 - page: 主页
   url: /
   icon: fa-home
-- page: 后端
-  url: /categories/后端/
+- page: 娱乐
+  url: /categories/娱乐/
+  icon: fa-tag
+- page: 编程
+  url: /categories/编程/
   icon: fa-tag
 - page: 工具
   url: /categories/工具/
+  icon: fa-tag
+- page: 其他
+  url: /categories/其他/
   icon: fa-tag
 - page: 关于
   url: /about/

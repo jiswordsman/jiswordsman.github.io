@@ -2,7 +2,8 @@
 title: Github Pages自定义域名开启https
 date: 2018-11-29
 categories:
-  - 工具
+  - 其他
+  - 博客
 tags:
   - 自定义域名
   - https
