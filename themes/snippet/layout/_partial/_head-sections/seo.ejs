@@ -10,6 +10,12 @@
 <% if(theme.baidu_ssp_verify){ %>
 <meta name="baidu_ssp_verify" content="<%= theme.baidu_ssp_verify%>">
 <% } %>
+<% if(theme.zhuchao_union_verify){ %>
+<meta name="zhuchao_union_verify" content="<%= theme.zhuchao_union_verify%>">
+<% } %>
+<% if(theme.sll_ssp_verify){ %>
+<meta name="360_ssp_verify" content="<%= theme.sll_ssp_verify%>">
+<% } %>
 
 <% var robotMeta = theme.robot||'all'; %>
 <meta name="robots" content="<%= robotMeta%>" />
