@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2018年12月亲测-免费科学上网工具-BaaCloud分享
+title: 2018年12月亲测-免费科学上网工具-Baacloud分享
 date: 2018/11/22
 categories:
   - 工具
@@ -9,7 +9,7 @@ tags:
   - 免费工具
 comments: true
 top: true
-permalink: baaCloud.html
+permalink: baacloud.html
 abbrlink: 60549
 keywords: 科学上网,科学上网工具,免费科学上网工具
 description: 2018年12月亲测-免费科学上网工具
