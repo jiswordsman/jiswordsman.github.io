@@ -31,7 +31,7 @@
     "hexo-generator-feed": "^1.2.0",
     "hexo-generator-index": "^0.2.1",
     "hexo-generator-index-pin-top": "^0.2.2",
-    "hexo-generator-json-content": "^2.2.0",
+    "hexo-generator-json-content": "^3.0.1",
     "hexo-generator-sitemap": "^1.2.0",
     "hexo-generator-tag": "^0.2.0",
     "hexo-plugin-hierarchy-category": "^0.1.0",

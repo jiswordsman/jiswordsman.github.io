@@ -67,7 +67,7 @@ window.onload = function () {
 
     //获取窗口可视范围的高度
     function getClientHeight() {
-        let clientHeight = 0;
+        var clientHeight = 0;
         if (document.body.clientHeight && document.documentElement.clientHeight) {
             clientHeight = (document.body.clientHeight < document.documentElement.clientHeight) ? document.body.clientHeight : document.documentElement.clientHeight;
         } else {
@@ -96,10 +96,10 @@ window.onload = function () {
     };
     scrollCallback();
 
-    let contentTop = document.getElementsByClassName("content-wrap")[0].offsetTop;
-    let copyrightHeight = document.getElementsByClassName("copyright")[0].offsetHeight;
-    let commentsBottom = getComputedStyle(document.getElementById("comments")).marginBottom;
-    let commentsBottomInt = parseInt(commentsBottom.substring(0, commentsBottom.length - 2));
+    var contentTop = document.getElementsByClassName("content-wrap")[0].offsetTop;
+    var copyrightHeight = document.getElementsByClassName("copyright")[0].offsetHeight;
+    var commentsBottom = getComputedStyle(document.getElementById("comments")).marginBottom;
+    var commentsBottomInt = parseInt(commentsBottom.substring(0, commentsBottom.length - 2));
     //监听滚动事件
     window.addEventListener('scroll', function () {
         if ($toc) {
