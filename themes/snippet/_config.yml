@@ -47,7 +47,7 @@ widgets:
   - search
   - notification
   - social
-  - category
+#  - category
   - archive
   - tagcloud
   - friends
