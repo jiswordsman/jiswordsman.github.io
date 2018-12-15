@@ -108,7 +108,6 @@ window.onload = function () {
             var width = $toc.offsetWidth;
             if (getScrollTop() <= contentTop) {
                 $toc.style = "";
-                $toc.style.overflow = "scroll";
             } else {
                 $toc.style.position = "fixed";
                 $toc.style.top = "5px";
