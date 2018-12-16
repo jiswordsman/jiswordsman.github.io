@@ -72,18 +72,18 @@ notification: |-
 
 ## 社交设置{@name:社交工具名字，@icon:社交工具图标，@href:设置工具链接} [参考图标](http://fontawesome.io/icons/)
 social:
- - name: Github
-   icon: git
-   href: //github.com/jiswordsman
+# - name: Github
+#   icon: git
+#   href: //github.com/jiswordsman
  - name: 邮箱
    icon: envelope-o
    href: mailto:jiswordsman@163.com
- - name: 联系QQ
-   icon: qq
-   href: /85893905
- - name: 微信
-   icon: weixin
-   href: /
+# - name: 联系QQ
+#   icon: qq
+#   href: /85893905
+# - name: 微信
+#   icon: weixin
+#   href: /
  # - name: QQ群
  #  icon: users
  #  href: /
