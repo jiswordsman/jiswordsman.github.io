@@ -9,3 +9,4 @@ public
 *.iml
 /db.json
 /package-lock.json
+/themes/snippet/db.json

@@ -72,18 +72,18 @@ notification: |-
 
 ## 社交设置{@name:社交工具名字，@icon:社交工具图标，@href:设置工具链接} [参考图标](http://fontawesome.io/icons/)
 social:
-# - name: Github
-#   icon: git
-#   href: //github.com/jiswordsman
+ #- name: Github
+ #  icon: git
+ #  href: //github.com/jiswordsman
  - name: 邮箱
    icon: envelope-o
    href: mailto:jiswordsman@163.com
-# - name: 联系QQ
-#   icon: qq
-#   href: /85893905
-# - name: 微信
-#   icon: weixin
-#   href: /
+ #- name: 联系QQ
+ #  icon: qq
+ #  href: /85893905
+ #- name: 微信
+ #  icon: weixin
+ #  href: /
  # - name: QQ群
  #  icon: users
  #  href: /
@@ -246,12 +246,12 @@ tencent_analytics:
 
 ### 百度站点认证
 baidu_site_verification: jw3malRPHB
+### 谷歌站点认证
+google_site_verification: 5qPTaCeL_9gL2Mkb2daZfbpyNKY17pkyEgw5Nh2Z6xY
 ### 百度ssp认证
 baidu_ssp_verify: 476a938c61cf3b5673983bd41e537c09
 ### 筑巢ssp认证
 zhuchao_union_verify: 9b2d64afe1b445c496557d683c791f68
-### 360ssp认证
-sll_ssp_verify: 2e93b6c279584bcc37f90b02c86582f5
 
 ### 百度自动推送(@baidu_push: 是否启用百度自动推送)  参考网站: [百度站长资源](https://ziyuan.baidu.com/college/courseinfo?id=267&page=2#h2_article_title18)
 baidu_push: true

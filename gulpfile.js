@@ -125,6 +125,7 @@ gulp.task('rev', function () {
     console.log("[complete] please execute： hexo d");
 });*/
 
-gulp.task('default', gulp.series('minify-css','minify-js','minify-images', 'minify-html', function () {
-    return console.log("[complete] please execute： hexo d");
+gulp.task('default', gulp.series('minify-css','minify-js','minify-images', 'minify-html', done => {
+    console.log("[complete] please execute： hexo d");
+    done();
 }));
