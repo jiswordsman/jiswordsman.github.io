@@ -24,7 +24,8 @@ abbrlink: 6555
  
 **科学上网、科学上网、科学上网、科学上网、科学上网、科学上网**，重要的事情说六遍！
 
-[**查看原文**](https://www.e-learn.cn/news/hulianwang/1253322)
+[**查看原文**](https://www.zybuluo.com/buzhimingyue/note/1316517)
+
 # 使用教程
 
 ## Android &IOS平台安装配置教程
