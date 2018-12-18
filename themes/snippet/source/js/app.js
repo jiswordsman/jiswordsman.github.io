@@ -21,7 +21,7 @@ window.onload = function () {
             return m ? m[1] : '';
         }
 
-        if (/iphone|ios|android|ipod/i.test(navigator.userAgent.toLowerCase()) == true && params(location.search, "from") != "mobile") {
+        if (/iphone|ipad|ios|android|ipod/i.test(navigator.userAgent.toLowerCase()) == true && params(location.search, "from") != "mobile") {
             isPC = false;
         }
     })();
