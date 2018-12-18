@@ -108,7 +108,7 @@ window.onload = function () {
             var top = $toc.offsetTop;
             var left = $toc.offsetLeft;
             var width = $toc.offsetWidth;
-            if (getScrollTop() <= contentTop) {
+            if (getScrollTop() <= max(top, contentTop)) {
                 $toc.style = "";
             } else {
                 $toc.style.position = "fixed";
@@ -130,6 +130,9 @@ window.onload = function () {
         }, 200);
     });
 
+    function max (a, b) {
+        return a > b ? a : b;
+    }
     //返回顶部
     $backToTop.onclick = function () {
         cancelAnimationFrame(timer);
