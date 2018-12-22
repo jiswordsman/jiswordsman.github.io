@@ -48,7 +48,7 @@ widgets:
   - notification
   - social
 #  - category
-  - archive
+#  - archive
   - tagcloud
   - friends
 
@@ -120,7 +120,7 @@ tagcloud:
 ## 友链设置{@链接名称：链接地址{@links:[,,,]}}
 links:
   - 便宜好货: https://m.yunjiglobal.com/yunjibuyer/static/vue-buyer/idc/index.html#/home?shopId=3710029&discoverId=0&appCont=0
-  - 我的博客: https://jiyongjun.tk
+  - 我的博客: https://www.cnblogs.com/haws/
 
 # 主题自定义个性化配置
 
