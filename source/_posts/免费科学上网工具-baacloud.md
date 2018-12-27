@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2018年12月亲测-免费科学上网工具-Baacloud分享
+title: 2019年1月亲测-免费科学上网工具-Baacloud分享
 date: 2018/11/22
 categories:
   - 工具
@@ -22,30 +22,41 @@ abbrlink: 6555
  2. Baacloud软件提供限量的免费流量（每个月约7G左右），所以只能供自己看新闻及短视频，如果要看大文件视频的话，就要有偿使用了；
  3. 想要长期免费用的，收藏下Baacloud的网页，每间隔24小时可以签到一次，免费用户每7天必须签到一次，否则无法正常使用。
  
-**科学上网、科学上网、科学上网、科学上网、科学上网、科学上网**，重要的事情说六遍！
+**科学上网、科学上网、科学上网**，重要的事情说六遍！
 
 [**查看原文**](https://www.zybuluo.com/buzhimingyue/note/1316517)
 
 # 使用教程
 
-## Android &IOS平台安装配置教程
+## Android平台安装配置教程
 
  1. [** 注册账号 **](https://www.baacloud99.com/?ref_by=523610)
  2. 下载并安装baacloud安卓客户端：[baacloud.apk](http://45.32.50.90:81/baacloud2.0.apk)[需要安卓4.0.3以上系统]
- 3. IOS系统：Baacloud已从中国区App Store下架，可以使用下方账户前往香港区下载：
-    苹果商店账户1：*** baacloud1@icloud.com ***
-    密码：*** Baacloud3 ***
-
-    苹果商店账户2: *** baacloud2@icloud.com ***
-    密码: *** Baacloud3 ***
-
-    提示：请勿登录icloud会上传您的照片与通讯录到账户上，下载完成后务必退出账户
  3. 安装完成后打开APP，按照提示输入账号与密码进行登录。
- 4. 登录成功后，点击连接或者根据喜好选择喜欢的线路![连接页面](http://upload-images.jianshu.io/upload_images/14380624-94244ebfb898bbac?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
- 5. 按照下图的指示同意创建连接。![同意创建连接](http://upload-images.jianshu.io/upload_images/14380624-1c49d5b7c233b5a9.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+ 4. 登录成功后，点击连接或者根据喜好选择喜欢的线路
+ <div align=center>
+ <img src="http://ww4.sinaimg.cn/large/a15b4afegy1fhkoc9anpej20f60q00u3" alt="连接页面" height=700px width=400px>
+ 5. 按照下图的指示同意创建连接。
+ <div align=center>
+ <img src="http://ww3.sinaimg.cn/large/006HJ39wgy1fhl2huvcg6j30k00zktai.jpg" style="align:center" alt="同意创建连接" height=700px width=400px>
  6. 连接成功后，打开浏览器上网或者各种App即可享受加速
  7. 关闭方法（点击断开即可）
  8. 最后，以上方法无效无法使用可以用备用方法：[安卓平台手动配置教程](https://www.baacloud.in/modules/help.php?p=3)
+
+## IOS平台使用教程
+
+1. *非大陆苹果账户* 可以在苹果商店直接搜索安装 Baacloud 的 APP 进行安装，或者直接<a href="#安装内测版">安装内测版</a>。
+<div align=center>
+<img src="http://ww3.sinaimg.cn/large/0060lm7Tgy1fiypunmdq3j30hr0vkdjs.jpg" alt="AppStore" height=700px width=400px>
+2. 输入您的注册邮箱与密码登陆
+<div align=center>
+<img src="http://ww1.sinaimg.cn/large/006HJ39wgy1fgvmbz9ol2j30yi1pcmz7.jpg" align=center alt="登录页面" height=700px width=400px>
+3. 点击连接开始连接
+
+### 安装内测版
+1. 在苹果商店直接搜索安装 TestFlight 进行安装后在Safari浏览器打开 [https://testflight.apple.com/join/5ZSsSwvL](https://testflight.apple.com/join/5ZSsSwvL)
+<div align=center>
+<img src="https://www.baacloud99.com/down/ios-test.png"/>
 
 ## Windows使用教程
 
