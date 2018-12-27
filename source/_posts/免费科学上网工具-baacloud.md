@@ -28,7 +28,7 @@ abbrlink: 6555
 
 # 使用教程
 
-## Android平台安装配置教程
+## Android平台使用教程
 
  1. [** 注册账号 **](https://www.baacloud99.com/?ref_by=523610)
  2. 下载并安装baacloud安卓客户端：[baacloud.apk](http://45.32.50.90:81/baacloud2.0.apk)[需要安卓4.0.3以上系统]
