@@ -129,7 +129,7 @@ branding: To be a better man !
 
 ## 设置banner背景图片{@img:imgUrl自定义图片地址,主题默认{"静态背景":"banner.jpg"},{"动态背景":"banner2.jpg"}}
 banner:
-    img: 'http://piwgc559z.bkt.clouddn.com/18-12-16/47392237.jpg'
+    img: 'https://ws1.sinaimg.cn/large/006pJ4b7ly1fymf0lch21j31e20b5776.jpg'
 
   
 ## 首页列表底部面板

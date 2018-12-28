@@ -74,4 +74,4 @@ abbrlink: 6555
 
 ## 其他系统教程
 均可在[官网首页](https://www.baacloud99.com/?ref_by=523610)  点击下载，每个客户端有对应的帮助教程。
-![1.png](https://upload-images.jianshu.io/upload_images/14380624-61669d8ce52494b1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![1.png](https://ws1.sinaimg.cn/large/006pJ4b7ly1fymd9ukqoxj30yg0gzq74.jpg)
