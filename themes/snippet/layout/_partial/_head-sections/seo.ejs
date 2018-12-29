@@ -1,6 +1,6 @@
 <!--SEO-->
 <% if(config.description && page.description){ %>
-<meta name="description" content="<%= config.description%> | <%= page.description%>"/>
+<meta name="description" content="<%= page.description%> | <%= config.description%>"/>
 <% } %>
 <% if (config.description && !page.description){ %>
 <meta name="description" content="<%= config.description%>"/>
@@ -10,7 +10,7 @@
 <% } %>
 
 <% if(config.keywords && page.keywords){ %>
-<meta name="keywords" content="<%= config.keywords%> ,<%= page.keywords%>"/>
+<meta name="keywords" content="<%= page.keywords%>,<%= config.keywords%>"/>
 <% } %>
 <% if (config.keywords && !page.keywords){ %>
 <meta name="keywords" content="<%= config.keywords%>"/>

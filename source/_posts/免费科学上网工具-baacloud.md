@@ -11,7 +11,7 @@ comments: true
 top: true
 permalink: baacloud.html
 keywords: '科学上网,免费科学上网工具,VPN'
-description: 2019年1月亲测-免费科学上网工具-支持绝大多数现在主流系统，如Windows、Android 、IOS 、Mac、Linux。
+description: '2019年1月亲测-免费科学上网工具-支持绝大多数现在主流系统，如Windows、Android 、IOS 、Mac、Linux。'
 abbrlink: 6555
 ---
 
