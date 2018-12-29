@@ -10,12 +10,12 @@ tags:
 comments: true
 top: true
 permalink: baacloud.html
-keywords: '科学上网,科学上网工具,免费科学上网工具'
-description: 2018年12月亲测-免费科学上网工具
+keywords: '科学上网,免费科学上网工具,VPN'
+description: 2019年1月亲测-免费科学上网工具-支持绝大多数现在主流系统，如Windows、Android 、IOS 、Mac、Linux。
 abbrlink: 6555
 ---
 
-最近想到外面上网看看新闻推特和其他，就在寻找合适的、免费上网工具，经过几个软件的试用，最终锁定Baacloud([**官网链接**](https://www.baacloud99.com/?ref_by=523610))，在这里分享给大家。首先强调下面需要注意的三点：
+最近想到外面上网看看新闻推特和其他，就在寻找合适的、免费上网工具，经过几个软件的试用，最终锁定Baacloud([**官网链接**](http://baa.im/523610))，在这里分享给大家。首先强调下面需要注意的三点：
 
  1. Baacloud软件支持绝大多数现在主流系统，如Windows、Android 、IOS 、Mac、Linux ，因篇幅有限，只介绍Windows、IOS和Android的安装配置教程。
  <!-- more -->
@@ -24,13 +24,13 @@ abbrlink: 6555
  
 **科学上网、科学上网、科学上网**，重要的事情说六遍！
 
-[**查看原文**](https://www.zybuluo.com/buzhimingyue/note/1316517)
+[**查看原文**](https://www.zybuluo.com/buzhiming/note/1378480)
 
 # 使用教程
 
 ## Android平台使用教程
 
- 1. [** 注册账号 **](https://www.baacloud99.com/?ref_by=523610)
+ 1. [** 注册账号 **](http://baa.im/523610)
  2. 下载并安装baacloud安卓客户端：[baacloud.apk](http://45.32.50.90:81/baacloud2.0.apk)[需要安卓4.0.3以上系统]
  3. 安装完成后打开APP，按照提示输入账号与密码进行登录。
  4. 登录成功后，点击连接或者根据喜好选择喜欢的线路
@@ -60,7 +60,7 @@ abbrlink: 6555
 
 ## Windows使用教程
 
- 1. [** 注册账号 **](https://www.baacloud99.com/?ref_by=523610) 
+ 1. [** 注册账号 **](http://baa.im/523610) 
  2. [下载Windows客户端](http://45.32.50.90:81/Baacloud-windows2.zip)
  3. 解压客户端
 	- 解压下载的客户端
@@ -73,5 +73,5 @@ abbrlink: 6555
  	- 最后，以上方法无效无法使用可以用备用方法：[Windows 平台手动配置教程](https://www.baacloud.in/modules/help.php)
 
 ## 其他系统教程
-均可在[官网首页](https://www.baacloud99.com/?ref_by=523610)  点击下载，每个客户端有对应的帮助教程。
+均可在[官网首页](http://baa.im/523610)  点击下载，每个客户端有对应的帮助教程。
 ![1.png](https://ws1.sinaimg.cn/large/006pJ4b7ly1fymd9ukqoxj30yg0gzq74.jpg)
