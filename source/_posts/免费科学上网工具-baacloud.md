@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2019年1月亲测-免费科学上网工具-Baacloud分享
+title: 科学上网工具_2019亲测可用_免费、稳定、跨平台、vpn分享
 date: 2018/11/22
 categories:
   - 工具
@@ -11,11 +11,11 @@ comments: true
 top: true
 permalink: baacloud.html
 keywords: '科学上网,免费科学上网工具,VPN'
-description: '2019年1月亲测-免费科学上网工具-支持绝大多数现在主流系统，如Windows、Android 、IOS 、Mac、Linux。'
+description: '2019年1月亲测，免费、稳定的科学上网工具，支持绝大多数主流系统，如Windows、Android 、IOS 、Mac、Linux。'
 abbrlink: 6555
 ---
 
-最近想到外面上网看看新闻推特和其他，就在寻找合适的、免费上网工具，经过几个软件的试用，最终锁定Baacloud([**官网链接**](http://baa.im/523610))，在这里分享给大家。首先强调下面需要注意的三点：
+最近想到外面上网看看新闻推特、YouTube和其他，就在寻找合适的、免费上网工具，经过几个软件的试用，最终锁定Baacloud([**官网链接**](http://baa.im/523610))，在这里分享给大家。首先强调下面需要注意的三点：
 
  1. Baacloud软件支持绝大多数现在主流系统，如Windows、Android 、IOS 、Mac、Linux ，因篇幅有限，只介绍Windows、IOS和Android的安装配置教程。
  <!-- more -->
