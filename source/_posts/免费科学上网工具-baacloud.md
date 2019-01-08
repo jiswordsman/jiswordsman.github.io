@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 科学上网工具_2019亲测可用_免费、稳定、跨平台、vpn分享
+title: 科学上网工具_2019亲测可用_免费、稳定、跨平台上网工具分享
 date: 2018/11/22
 categories:
   - 工具
@@ -10,7 +10,7 @@ tags:
 comments: true
 top: true
 permalink: baacloud.html
-keywords: '科学上网,免费科学上网工具,VPN'
+keywords: '科学上网,免费科学上网工具'
 description: '2019年1月亲测，免费、稳定的科学上网工具，支持绝大多数主流系统，如Windows、Android 、IOS 、Mac、Linux。'
 abbrlink: 6555
 ---
