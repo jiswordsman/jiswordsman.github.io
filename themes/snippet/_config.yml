@@ -240,7 +240,7 @@ baidu_analytics: 826e13beb7a13fd4aae44d6bd8d2aa70
 
 ### 谷歌统计
 google_analytics:
-google_analytics_new: UA-131542622-1
+google_analytics_new: #UA-131542622-1
 
 ### 腾讯分析
 tencent_analytics:
