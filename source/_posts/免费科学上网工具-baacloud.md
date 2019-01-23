@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 科学上网工具_2019亲测可用_免费、稳定、跨平台上网工具分享
-date: 2018/11/22
+title: 免费科学上网工具_2019年2月亲测可用_免费、稳定、跨平台科学上网工具分享
+date: 2019/01/23
 categories:
   - 工具
 tags:
@@ -10,21 +10,19 @@ tags:
 comments: true
 top: true
 permalink: baacloud.html
-keywords: '科学上网,免费科学上网工具'
-description: '2019年1月亲测，免费、稳定的科学上网工具，支持绝大多数主流系统，如Windows、Android 、IOS 、Mac、Linux。'
+keywords: '科学上网,Baacloud'
+description: '2019年2月亲测，免费、稳定的科学上网工具，支持绝大多数主流系统，如Windows、Android 、IOS 、Mac、Linux。'
 abbrlink: 6555
 ---
 
-最近想到外面上网看看新闻推特、YouTube和其他，就在寻找合适的、免费上网工具，经过几个软件的试用，最终锁定***Baacloud***，在这里分享给大家。首先强调下面需要注意的三点：
+科学上网、科学上网、科学上网，重要的事情说三遍！
+
+最近想到外面上网看看新闻推特、YouTube和其他，就在寻找合适的、免费上网工具，经过几个软件的试用，最终锁定Baacloud([**官网链接**](http://baa.im/523610))，在这里分享给大家。首先强调下面需要注意的三点：
 
  1. Baacloud软件支持绝大多数现在主流系统，如Windows、Android 、IOS 、Mac、Linux ，因篇幅有限，只介绍Windows、IOS和Android的安装配置教程。
  <!-- more -->
  2. Baacloud软件提供限量的免费流量（每个月约7G左右），所以只能供自己看新闻及短视频，如果要看大文件视频的话，就要有偿使用了；
  3. 想要长期免费用的，收藏下Baacloud的网页，每间隔24小时可以签到一次，免费用户每7天必须签到一次，否则无法正常使用。
- 
-**科学上网、科学上网、科学上网**，重要的事情说三遍！
-
-[**查看原文**](https://www.zybuluo.com/buzhiming/note/1378480)
 
 # 使用教程
 
