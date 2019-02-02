@@ -40,7 +40,7 @@ git remote add origin 仓库地址
 
 重新关联远程仓库后，使用git pull更新代码时，会提示
 
-![](http://wx4.sinaimg.cn/mw690/006pJ4b7gy1fylmjd2i9vj30mv07o0sw.jpg)
+[![git.jpg](https://i.postimg.cc/jSGTzzMK/git.jpg)](https://postimg.cc/4YbjGhCF)
 
 大致意思就是当前本地分支没有关联远程分支，需要关联远程分支才能更新代码。可以使用如下命令：
 

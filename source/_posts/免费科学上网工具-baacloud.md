@@ -33,28 +33,23 @@ abbrlink: 6555
  3. 安装完成后打开APP，按照提示输入账号与密码进行登录。
  4. 登录成功后，点击连接或者根据喜好选择喜欢的线路
  <div align=center>
- <img src="http://ww4.sinaimg.cn/large/a15b4afegy1fhkoc9anpej20f60q00u3" alt="连接页面" height=700px width=400px>
+ [![image.jpg](https://i.postimg.cc/FR5j5Lzx/image.jpg)](https://postimg.cc/qtwt2g8t)
  5. 按照下图的指示同意创建连接。
  <div align=center>
- <img src="http://ww3.sinaimg.cn/large/006HJ39wgy1fhl2huvcg6j30k00zktai.jpg" style="align:center" alt="同意创建连接" height=700px width=400px>
+ [![image.jpg](https://i.postimg.cc/ZR86T5yz/image.jpg)](https://postimg.cc/r0pDjcJf)
  6. 连接成功后，打开浏览器上网或者各种App即可享受加速
  7. 关闭方法（点击断开即可）
  8. 最后，以上方法无效无法使用可以用备用方法：[安卓平台手动配置教程](https://www.baacloud.in/modules/help.php?p=3)
 
 ## IOS平台使用教程
 
-1. *非大陆苹果账户* 可以在苹果商店直接搜索安装 Baacloud 的 APP 进行安装，或者直接<a href="#安装内测版">安装内测版</a>。
+1. *非大陆苹果账户* 可以在苹果商店直接搜索安装 Baacloud 的 APP 进行安装，或者直接<a href="https://www.baacloud98.com/down/ios.php">安装公测版</a>。
 <div align=center>
-<img src="http://ww3.sinaimg.cn/large/0060lm7Tgy1fiypunmdq3j30hr0vkdjs.jpg" alt="AppStore" height=700px width=400px>
+[![App-Store.jpg](https://i.postimg.cc/wM9L3Yhy/App-Store.jpg)](https://postimg.cc/ygrkr5ps)
 2. 输入您的注册邮箱与密码登陆
 <div align=center>
-<img src="http://ww1.sinaimg.cn/large/006HJ39wgy1fgvmbz9ol2j30yi1pcmz7.jpg" align=center alt="登录页面" height=700px width=400px>
+[![image.jpg](https://i.postimg.cc/C5JDqrNv/image.jpg)](https://postimg.cc/hQzfFrNx)
 3. 点击连接开始连接
-
-### 安装内测版
-1. 在苹果商店直接搜索安装 TestFlight 进行安装后在Safari浏览器打开 [https://testflight.apple.com/join/5ZSsSwvL](https://testflight.apple.com/join/5ZSsSwvL)
-<div align=center>
-<img src="https://www.baacloud99.com/down/ios-test.png"/>
 
 ## Windows使用教程
 
@@ -72,4 +67,4 @@ abbrlink: 6555
 
 ## 其他系统教程
 均可在[官网首页](http://baa.im/523610)  点击下载，每个客户端有对应的帮助教程。
-![1.png](https://ws1.sinaimg.cn/large/006pJ4b7ly1fymd9ukqoxj30yg0gzq74.jpg)
+[![baacloud.jpg](https://i.postimg.cc/WbHT16VT/baacloud.jpg)](https://postimg.cc/ppzg0jy6)
