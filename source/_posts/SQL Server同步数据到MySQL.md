@@ -6,9 +6,9 @@ tags:
   - mysql
   - Navicat
 comments: true
-permalink: sqlServer2MySQL.html
+permalink: navicat.html
 keywords: 'mysql,数据同步,sqlServer'
-abbrlink: 5413
+abbrlink: 21617
 date: 2019-03-18 00:00:00
 ---
 
@@ -30,6 +30,10 @@ date: 2019-03-18 00:00:00
 6. 配置目标表的新表名(可以沿用原来的表名)，下一步。[![2.png](https://i.postimg.cc/hP6yv29s/2.png)](https://postimg.cc/jL6QkQ3n)
 7. 配置新表的新字段名(可以沿用原来的字段名)，下一步。
 8. 开始任务，静静得等待完成就好了。
+
+# 注意事项
+
+索引、唯一约束等需要自己手工添加。
 
 # 后续
 Navicat Premium是一个非常非常强大的工具，除了今天介绍的导入向导功能，还有服务器监控、自定义报表、自定义批处理作业、数据建模等非常强大企业级应用功能，感兴趣的同学可以自行了解一下。
