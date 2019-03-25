@@ -1,5 +1,7 @@
 ---
-title: SQL Server同步数据到MySQL
+layout: post
+title: SQLServer同步数据到MySQL
+date: 2019/3/18
 categories:
   - 工具
 tags:
@@ -8,8 +10,7 @@ tags:
 comments: true
 permalink: navicat.html
 keywords: 'mysql,数据同步,sqlServer'
-abbrlink: 21617
-date: 2019-03-18 00:00:00
+abbrlink: 39854
 ---
 
 # 背景
