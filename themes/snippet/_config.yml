@@ -14,6 +14,9 @@ menu:
 - page: 编程
   url: /categories/编程/
   icon: fa-tag
+- page: 分布式系统
+  url: /categories/分布式系统/
+  icon: fa-tag
 - page: 工具
   url: /categories/工具/
   icon: fa-tag
