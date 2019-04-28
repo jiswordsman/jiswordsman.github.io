@@ -132,7 +132,8 @@ branding: To be a better man !
 
 ## 设置banner背景图片{@img:imgUrl自定义图片地址,主题默认{"静态背景":"banner.jpg"},{"动态背景":"banner2.jpg"}}
 banner:
-    img: 'https://cfwall.cf/img/banner.jpg'
+#    img: 'https://i.postimg.cc/pVBN1NLm/banner.jpg'
+    img: '/img/banner.jpg'
 
   
 ## 首页列表底部面板

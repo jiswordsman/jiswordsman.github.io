@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 免费科学上网工具_2019年4月亲测可用_免费、稳定、跨平台科学上网工具分享
-date: 2019/04/06
+title: 免费科学上网工具_2019年5月亲测可用_免费、稳定、跨平台科学上网工具分享
+date: 2019/04/22
 categories:
   - 工具
 tags:
@@ -11,7 +11,7 @@ comments: true
 top: true
 permalink: baacloud.html
 keywords: '科学上网,Baacloud'
-description: '2019年3月亲测，免费、稳定的科学上网工具，支持绝大多数主流系统，如Windows、Android 、IOS 、Mac、Linux。'
+description: '2019年5月亲测，免费、稳定的科学上网工具，支持绝大多数主流系统，如Windows、Android 、IOS 、Mac、Linux。'
 abbrlink: 6555
 ---
 
@@ -26,9 +26,9 @@ abbrlink: 6555
 
 **Tips: 因为该网站网址经常变化（原因你懂得），建议收藏本网站以备随时查看最新地址**
 
-# 使用教程
+## 使用教程
 
-## Android平台使用教程
+### Android平台使用教程
 
  1. [** 注册账号 **][1]
  2. 下载并安装baacloud安卓客户端：[baacloud.apk](http://45.32.50.90:81/baacloud2.0.apk)[需要安卓4.0.3以上系统]
@@ -43,7 +43,7 @@ abbrlink: 6555
  7. 关闭方法（点击断开即可）
  8. 最后，以上方法无效无法使用可以用备用方法：[安卓平台手动配置教程](https://www.baacloud.in/modules/help.php?p=3)
 
-## IOS平台使用教程
+### IOS平台使用教程
 
 1. *非大陆苹果账户* 可以在苹果商店直接搜索安装 Baacloud 的 APP 进行安装，或者直接<a href="https://www.baacloud98.com/down/ios.php">安装公测版</a>。
 <div align=center>
@@ -53,7 +53,7 @@ abbrlink: 6555
 [![image.jpg](https://i.postimg.cc/C5JDqrNv/image.jpg)](https://postimg.cc/hQzfFrNx)
 3. 点击连接开始连接
 
-## Windows使用教程
+### Windows使用教程
 
  1. [** 注册账号 **][1] 
  2. [下载Windows客户端](http://45.32.50.90:81/Baacloud-windows2.zip)
@@ -67,7 +67,7 @@ abbrlink: 6555
  	- 浏览器打开谷歌 www.google.com 就能正常访问了。【如果不能连接请关闭浏览器安装的代理插件之类的】
  	- 最后，以上方法无效无法使用可以用备用方法：[Windows 平台手动配置教程](https://www.baacloud.in/modules/help.php)
 
-## 其他系统教程
+### 其他系统教程
 均可在[官网首页][1]  点击下载，每个客户端有对应的帮助教程。
 [![baacloud.jpg](https://i.postimg.cc/WbHT16VT/baacloud.jpg)](https://postimg.cc/ppzg0jy6)
 
