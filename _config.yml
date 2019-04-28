@@ -81,6 +81,8 @@ deploy:
   type: git
   repo:
     gitee: https://gitee.com/jidaxia/jidaxia.git,master
+    # Imironman 密码
+    tencent: https://git.dev.tencent.com/Imironman/cfgw.git,master
 
 hierarchy_category:
   enable_helper: true
