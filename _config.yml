@@ -81,8 +81,10 @@ deploy:
   type: git
   repo:
     gitee: https://gitee.com/jidaxia/jidaxia.git,master
-    # Imironman 密码
+    # Imironman 密码 域名 cgfwall.cf
     tencent: https://git.dev.tencent.com/Imironman/cfgw.git,master
+    # jiyongjun 大写密码 域名 cgfw.tk
+    gitlab: https://gitlab.com/jiyongjun/jiyongjun.gitlab.io.git,master
 
 hierarchy_category:
   enable_helper: true
