@@ -6,6 +6,8 @@ pages:
     - node_modules/
 
   script:
+  - git config --global user.email "yongjun.ji@ucarinc.com"
+  - git config --global user.name "yongjun"
   - npm install hexo-cli -g
   - npm install
   - hexo deploy
