@@ -70,7 +70,8 @@ jsonContent:
 ## 网站公告设置
 notification: |-
             <p>
-               本站不定期分享开发技术心得、免费science上网工具。
+               本站不定期分享开发技术心得、免费科学上网工具。
+               <a href="http://redirected.cf/" target='_blank'>永久网址——http://redirected.cf/ (建议保存-Ctrl+D)</a>
             </p>
 
 ## 社交设置{@name:社交工具名字，@icon:社交工具图标，@href:设置工具链接} [参考图标](http://fontawesome.io/icons/)
