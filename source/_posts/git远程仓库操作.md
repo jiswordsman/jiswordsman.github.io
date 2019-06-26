@@ -15,6 +15,8 @@ date: 2018-12-16 00:00:00
 本篇文章记录一些git远程仓库的常用操作和命令。
 <!-- more -->
 
+[![【数字生态，钜惠来袭】云服务器限时秒杀，首购1核1G 99元/年](/img/popularization/1537734-20190613143603431-1682477692.jpg)](https://cloud.tencent.com/redirect.php?redirect=1042&cps_key=c92a822e847f8d9a2f868d42d2065157&from=console)
+
 ## 查看远程仓库
 
 ```

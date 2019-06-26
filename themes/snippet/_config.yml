@@ -38,9 +38,8 @@ rss: /atom.xml
 
 ## Carousel
 carousel:
-  img: 
-  #'./img/head-img.jpg'
-  url: 
+  img: '/img/popularization/1537734-20190613144937843-576863901.jpg'
+  url: 'https://cloud.tencent.com/redirect.php?redirect=1040&cps_key=c92a822e847f8d9a2f868d42d2065157&from=console'
   #'javascript:'
 
 # 各个小工具的设置

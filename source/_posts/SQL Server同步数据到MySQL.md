@@ -19,6 +19,8 @@ abbrlink: 39854
 
 好在百度了一下，发现常用的Navicat Premium就可以实现这个需求(顿时对它有点刮目相看呢)，顺便还能把数据也迁移过去。
 
+[![【数字生态，钜惠来袭】云服务器限时秒杀，首购1核1G 99元/年](/img/popularization/1537734-20190613143603431-1682477692.jpg)](https://cloud.tencent.com/redirect.php?redirect=1042&cps_key=c92a822e847f8d9a2f868d42d2065157&from=console)
+
 ## 操作
 
 1. 打开目标数据库连接(mysql)，新建一个同名的数据库，然后在右侧界面点击“导入向导”按钮。[![image.png](https://i.postimg.cc/yd1nttH1/image.png)](https://postimg.cc/Y4P1mX0Z)

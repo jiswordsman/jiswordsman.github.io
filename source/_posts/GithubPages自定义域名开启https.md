@@ -14,6 +14,8 @@ permalink: customDomainHttps.html
 keywords: Github Pages,自定义域名,https
 ---
 
+[![【数字生态，钜惠来袭】云服务器限时秒杀，首购1核1G 99元/年](/img/popularization/1537734-20190613143603431-1682477692.jpg)](https://cloud.tencent.com/redirect.php?redirect=1042&cps_key=c92a822e847f8d9a2f868d42d2065157&from=console)
+
 Github Pages设置自定义域名，通过https访问会提示警告，很不友好。这是因为没有为网站提供证书，而证书需要购买。下面介绍一种简单免费的去除警告的方法，通过netlify实现。
 <!-- more -->
 ![此处输入图片的描述][1]
