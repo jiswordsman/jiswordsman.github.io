@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 免费科学上网工具_2019年7月亲测可用_免费、稳定、跨平台科学上网工具分享
-date: 2019/06/26
+title: 免费科学上网工具_2019年12月亲测可用_免费、稳定、跨平台科学上网工具分享
+date: 2019/12/01
 categories:
   - 工具
 tags:
@@ -11,7 +11,7 @@ comments: true
 top: true
 permalink: baacloud.html
 keywords: '科学上网,Baacloud'
-description: '2019年7月亲测，免费、稳定的科学上网工具，支持绝大多数主流系统，如Windows、Android 、IOS 、Mac、Linux。'
+description: '2019年12月亲测，免费、稳定的科学上网工具，支持绝大多数主流系统，如Windows、Android 、IOS 、Mac、Linux。'
 abbrlink: 6555
 ---
 

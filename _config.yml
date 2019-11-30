@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://laozi.cf
+url: https://cgfwall.cf
 root: /
 permalink: :title/
 permalink_defaults:
@@ -82,7 +82,8 @@ deploy:
   repo:
     gitee: https://gitee.com/jidaxia/jidaxia.git,master
     # Imironman 密码 域名 cgfwall.cf
-    tencent: https://git.dev.tencent.com/Imironman/cfgw.git,master
+#    tencent: https://git.dev.tencent.com/Imironman/cfgw.git,master
+    tencent: https://git.dev.tencent.com/Imironman/today.git,master
     # jiyongjun 大写密码 域名 cgfw.tk
 #    gitlab: https://gitlab.com/jiyongjun/jiyongjun.gitlab.io.git,master
 
